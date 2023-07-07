@@ -1,4 +1,4 @@
-package me.andromedabot;
+package me.andromedabot.main;
 
 import me.andromedabot.security.Security;
 import net.dv8tion.jda.api.JDA;
