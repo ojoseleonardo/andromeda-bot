@@ -1,2 +1,2 @@
 # andromeda-bot
-Java Discord Bot
+Java Discord Bot Moderador de Server
